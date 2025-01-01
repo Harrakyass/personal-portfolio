@@ -1,0 +1,22 @@
+header, body{
+    background-color: #000000;
+    color: #ffffff;
+    
+}
+#welcome{
+    font-family: "sort mill goudy";
+    font-size: 20px;
+    margin-top: 15%;
+    margin-bottom: 6%;
+}
+#large-title{
+    font-family: RoxboroughCF;
+    font-size: 25px;
+    text-transform: uppercase;
+}
+#slogan{
+    font-family: montsserat, sans-serif;
+    font-size: 30px;
+    margin-bottom: 20%;
+    text-transform: uppercase;
+}
