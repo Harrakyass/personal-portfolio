@@ -16,10 +16,12 @@ h2, h3 {
     font-family: "Sort Mill Goudy", sans-serif;
 }
 a {
-    color: #475b65;
+    color: #2a3d48;
+    text-decoration: none;
 }
 a:hover {
-    color: #0A1123;
+    color: #567c8d;
+    text-decoration: underline;
 }
 /* Header Styles */
 #welcome {
@@ -85,7 +87,9 @@ section {
     border-radius: 10px;
     background-color: #0f1831;
 }
-
+span{
+    color: #3C5665;
+}
 section h2 {
     text-align: center;
     margin-bottom: 20px;
@@ -148,7 +152,7 @@ section h2 {
 
 .carousel-caption {
     background-color: rgba(116, 130, 141, 0.7);
-    color: #0A1123;
+    color: #2a3d48;
     padding: 10px;
     border-radius: 5px;
 }
