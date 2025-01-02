@@ -22,8 +22,6 @@ The portfolio highlights:
 ## 💻 Built With:
 - **HTML5** for content structure.
 - **CSS3** for styling and layout.
-- **GitHub Pages** for hosting the live demo.
-
 ## 🚀 Future Enhancements:
 - Update the color palette for better aesthetics.
 - Add sections for live project links and testimonials.
@@ -35,9 +33,6 @@ The portfolio highlights:
 
 ### About Me Section:
 ![Screenshot 2](./page-screenshot2.png)
-
-## 🔗 Live Demo
-[Check out the live site](https://your-live-portfolio-link.com)
 
 ## 📂 Project Setup
 To run the project locally:
