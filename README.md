@@ -3,9 +3,8 @@
 This is my personal portfolio project, showcasing my skills, projects, and background as a web developer. It was built as the final project for the Codedex CSS course.
 
 ## 🖥️ Preview
-![Portfolio Screenshot](path-to-screenshot/page-screenshot2.png)
+![Portfolio Screenshot](./page-screenshot2.png)
 
-You can view the live version of the portfolio [here](https://your-live-portfolio-link.com).
 
 ---
 
@@ -32,10 +31,10 @@ The portfolio highlights:
 
 ## 📸 Screenshots
 ### Welcome Section:
-![Screenshot 1](path-to-screenshot/page-screenshot1.png)
+![Screenshot 1](./page-screenshot1.png)
 
 ### About Me Section:
-![Screenshot 2](path-to-screenshot/page-screenshot2.png)
+![Screenshot 2](./page-screenshot2.png)
 
 ## 🔗 Live Demo
 [Check out the live site](https://your-live-portfolio-link.com)
