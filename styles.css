@@ -1,7 +1,7 @@
 /* General Styles */
 body, header {
-    background-color: #0A1123;
-    color: #5A7480;
+    background-color: #2F4156;
+    color: #2F4156;
     font-family: "Sort Mill Goudy", sans-serif;
     margin: 0;
     padding: 0;
@@ -11,16 +11,16 @@ main {
     padding: 20px;
 }
 
-h2, h3 {
-    color: #5A7480;
+h2{
+    color: #567C8D;
     font-family: "Sort Mill Goudy", sans-serif;
 }
 a {
-    color: #2a3d48;
+    color: #2B3A55;
     text-decoration: none;
 }
 a:hover {
-    color: #567c8d;
+    color: #1E2A40;
     text-decoration: underline;
 }
 /* Header Styles */
@@ -29,26 +29,26 @@ a:hover {
     margin-bottom: 6%;
     font-size: 2em;
     text-align: center;
-    color: #5A7480;
+    color: #C8D9E6;
 }
 
 #large-title {
     text-transform: uppercase;
     font-size: 3em;
     text-align: center;
-    color: #3C5665;
+    color: #C8D9E6;
 }
 
 #slogan {
     margin-bottom: 20%;
     text-transform: uppercase;
     text-align: center;
-    color: #3C5665;
+    color: #C8D9E6;
 }
 
 /* Navbar Styles */
 #nav-css  {
-    background-color: #8A8CAC;
+    background-color: #C8D9E6;
     font-family: "Montserrat", sans-serif;
     font-size: 1.1em;
     border-radius: 5px;
@@ -85,9 +85,9 @@ section {
     padding: 20px;
     border: 1px solid #3C5665;
     border-radius: 10px;
-    background-color: #0f1831;
+    background-color: #C8D9E6;
 }
-span{
+span, h4, h3{
     color: #3C5665;
 }
 section h2 {
@@ -158,8 +158,8 @@ section h2 {
 }
 /* Footer */
 footer {
-    background-color: #0A1123;
-    color: #5A7480;
+    background-color: #2F4156;
+    color: #C8D9E6;
     text-align: center;
     padding: 1em 0;
     font-family: "Sort Mill Goudy", sans-serif;
